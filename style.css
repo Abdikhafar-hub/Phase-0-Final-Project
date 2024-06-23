@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(hex.jpg);
+}
+
+.logo{
+    width: 170px;
+    height: 200px;
+    border-radius: 50%;
+}
+.main{
+    width: 100%;
+    background: url(bck.jp);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+   
+    border-radius: 10%;
+   
+    
+}
+.navbar{
+    width: 86%;
+    display: flex;
+    margin: auto;
+    padding: 15px 0;
+    align-items: center;
+    justify-content: space-between;
+
+} 
+.navbar .logo{
+width: 160px;
+cursor: pointer;
+margin-top: 20px
+margin-left: -2%;
+}
+
+ ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 16px;
+ }
+ ul li a{
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+ }
+ ul li a:hover{
+    color: brown;
+ }
+ h1{
+    margin-left: 50px;
+    color: black
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    
+
+ }
+ h2{
+    margin-left: 70px;
+    font-style: oblique;
+    font-size: 30px;
+    text-decoration: underline;
+ }
+ ul li{
+    text-decoration: underlin
+    font-size: 20px;
+ }
+ ul li ul{
+    font-size: 10px;
+ }
+ .edu{
+    font-size: 20px;
+    font-weight: bold;
+
+ }
+ .main{
+    display:
+ }
+ #paratwo{
+    font-size: 20px;
+    padding-left: 40px;
+    font-weight: bold;
+    color: black;
+ }
+ .main{
+   width: 60%
+ }
+ .aside{
+   font-size: 20px;
+   padding-left: 20px;
+   margin-left: auto;
+   width: 30%;
+   position: absolute;
+   top: 200px;
+   right: 20px;
+   font-weight: bold;
+   background-image: url(msa.jpg);
+   background-size: cover;
+   border-radius: 10%;
+ }
+ .nobullet{
+   list-style-type: none;
+ }
+ .nav{
+   
+   justify-content: center;
+   border-radius: 10%;
+   
+ }
+ .fa-twitter{
+   color: lightskyblue;
+ }
+  .head :hover{
+   color: brown;
+  }
+  .fa-facebook{
+   color: blue;
+  }
+  
